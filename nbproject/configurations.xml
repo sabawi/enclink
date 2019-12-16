@@ -13,6 +13,7 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>README.md</itemPath>
       <itemPath>json.hpp.re2c</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
@@ -47,6 +48,8 @@
           <commandLine>-static -lrt -lcrypto -lpthread -ldl -lz -lboost_system -lboost_filesystem -ldl</commandLine>
         </linkerTool>
       </compileType>
+      <item path="README.md" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="json.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="json.hpp.re2c" ex="false" tool="3" flavor2="0">
@@ -80,6 +83,8 @@
           <commandLine>-static -lrt -lcrypto -lpthread -ldl -lz -lboost_system -lboost_filesystem -ldl</commandLine>
         </linkerTool>
       </compileType>
+      <item path="README.md" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="json.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="json.hpp.re2c" ex="false" tool="3" flavor2="0">
