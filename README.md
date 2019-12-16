@@ -6,7 +6,7 @@ The following are required pre-reqs for a development environment:
 1) OpenSSL dev libraries
     $ sudo apt install libssl-dev
 
-2) Beest C++ libraries:
+2) Boost C++ libraries:
     $ sudo apt install libboost-all-dev
 
 
